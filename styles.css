@@ -99,7 +99,7 @@ nav {
     color: white;
     padding: 150px 2rem 100px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 80px;
     position: relative;
     overflow: hidden;
 }
@@ -579,7 +579,7 @@ footer {
     }
 
     .hero {
-        margin-top: 140px;
+        margin-top: 150px;
         padding: 80px 2rem 80px;
     }
 
